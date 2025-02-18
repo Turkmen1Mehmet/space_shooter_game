@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@expo/metro-runtime": "~4.0.1",
+    "@types/matter-js": "^0.19.8",
+    "expo": "^52.0.35",
+    "matter-js": "^0.20.0",
+    "react": "^18.3.1",
+    "react-dom": "18.3.1",
+    "react-native": "0.76.7",
+    "react-native-game-engine": "^1.2.0",
+    "react-native-web": "~0.19.13"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.3.3"
+  }
+}
